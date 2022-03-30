@@ -1,6 +1,8 @@
-# SoftwareArchitectureCLassApplication
-This is sandbox code to show proof of concept usages of some principles taught in University of Cincinnati's Software Architecture Class.
+# Time Estimation
+In total, we think it will take 2 hours to get the code set up. The documentation will take one hour. Then it will take an additional 30 min to set up the report. It actually took us 2.5 hour to complete the code and 15 min to write the report. The documentation actually took 1 hour.
 
-This code base will be used for several assignments, but it's value comes from having several libraries in play, as well as some example usages of concepts of singletons, static initializers, journaling, and automation APIs
-
-Additionally, this also shows how to setup a Basic Action to verify a merge request compiles or not.
+# Evaluation of team members
+|  | Emma | Erin | Total |
+|-----------|:-----------:|-----------:|  -----------:|  
+| Emma | 0.5 | 0.5 |  1  |
+| Erin | 0.5 | 0.5 |  1 ||
